@@ -12,7 +12,7 @@ export const metadata = {
   title: "About",
 };
 
-export default function Home() {
+export default function About() {
   return (
     <>
       <Image
@@ -35,7 +35,7 @@ export default function Home() {
             Priyanshu Jaiswal
           </h1>
           <p className="font-light text-foreground text-lg">
-            ABV-IIITM,Gwalior'26 || WEB DEV || DSA || CP
+            ABV-IIITM,Gwalior&#39;26 || WEB DEV || DSA || CP
           </p>
         </div>
       </div>
